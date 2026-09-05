@@ -1,0 +1,18 @@
+{
+  "name": "generate-doc",
+  "description": "Plugin for writing documents and answers without the AI tone",
+  "owner": {
+    "name": "gang00"
+  },
+  "plugins": [
+    {
+      "name": "generate-doc",
+      "description": "문서와 답변에서 AI 특유의 문체를 빼고 사람이 실제로 쓴 것처럼 쓰게 하는 글쓰기 스킬",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "gang00"
+      }
+    }
+  ]
+}
